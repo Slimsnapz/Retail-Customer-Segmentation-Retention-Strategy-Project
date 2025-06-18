@@ -1,10 +1,11 @@
-Retail Customer Segmentation & Retention Strategy Project
-Project Overview
+# Retail Customer Segmentation & Retention Strategy Project
+
+## Project Overview
 This data science project analyzes transaction data from an online retail business to segment customers using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering. The insights drive personalized retention strategies to maximize customer lifetime value.
 
-Business Impact: 23% higher marketing ROI through targeted campaigns based on customer behavior patterns.
+**Business Impact:** 23% higher marketing ROI through targeted campaigns based on customer behavior patterns.
 
-Data Source
+**Data Source**
 Online Retail II Dataset
 
 Source: UCI Machine Learning Repository
@@ -13,7 +14,7 @@ Period: Dec 2009 - Dec 2010
 
 Records: 525,461 transactions
 
-Attributes:
+**Attributes:**
 
 Invoice: Transaction ID
 
