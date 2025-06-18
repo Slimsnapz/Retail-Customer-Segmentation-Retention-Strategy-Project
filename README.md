@@ -35,9 +35,9 @@ Country: Delivery destination
 *******************************add image******************************************
 
 
-Key Skills Demonstrated:
+## Key Skills Demonstrated:
 
-Data Preprocessing:
+**Data Preprocessing:**
 
 Handling missing values
 
@@ -53,7 +53,7 @@ Silhouette scoring (0.50+ achieved)
 
 Hierarchical clustering validation
 
-Data Visualization:
+**Data Visualization:**
 
 Radar charts for segment comparison
 
@@ -61,7 +61,7 @@ Interactive bar/box plots
 
 Business intelligence dashboards
 
-Statistical Analysis:
+**Statistical Analysis:**
 
 RFM metric normalization
 
@@ -69,7 +69,7 @@ Cluster stability validation
 
 Behavioral pattern extraction
 
-Tools Used:
+## Tools Used:
 
 Python (Pandas, NumPy, Scikit-learn)
 
@@ -81,14 +81,14 @@ Jupyter Notebooks
 
 ********************************add table**********************
 
-Key Insights
+## Key Insights
 Revenue Concentration: Top 15% (VIPs) generate 70% of revenue
 
 Churn Warning: 35% medium-value customers showing engagement decline
 
 Reactivation Opportunity: 50% inactive segment has $25K+ recoverable revenue
 
-Behavioral Patterns:
+**Behavioral Patterns:**
 
 VIPs purchase every 2-3 weeks
 
@@ -97,7 +97,7 @@ At-risk customers respond to replenishment reminders
 Inactives need strong reactivation incentives
 
 Strategic Recommendations
-VIP Retention Program:
+**VIP Retention Program:**
 
 Implement tiered loyalty rewards
 
